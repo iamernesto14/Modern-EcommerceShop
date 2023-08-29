@@ -27,7 +27,7 @@ header {
 
 #nav-links {
     gap: 25px;
-
+    display: none;
 }
 
 #nav-links a {
